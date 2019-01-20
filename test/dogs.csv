@@ -1,0 +1,56 @@
+dog_name,gender,breed,birth,dominant_color,secondary_color,third_color,spayed_or_neutered,guard_or_trained,borough,zip_code
+Skippy,M,Beagle,Jan-96,BROWN,TAN,WHITE,Yes,No,Brooklyn,11223
+Skippy,M,Beagle,Jan-04,BLACK,BROWN,WHITE,No,No,Staten Island,10308
+Skippy,M,Beagle,Apr-04,BLACK,WHITE,BROWN,Yes,No,Staten Island,10306
+Skippy,M,Boston Terrier,Mar-11,BLACK,WHITE,n/a,No,No,Manhattan,10023
+Skippy,M,Cavalier King Charles Spaniel,Jan-05,WHITE,BROWN,n/a,No,No,Bronx,10465
+Skippy,M,Chihuahua,Jan-04,BROWN,BLACK,n/a,Yes,No,Staten Island,10312
+Skippy,M,Chihuahua,Jul-10,BLOND,n/a,n/a,No,No,Bronx,10472
+Skippy,M,Cocker Spaniel,Jan-06,WHITE,BLOND,n/a,Yes,No,Staten Island,10309
+Skippy,M,Collie Crossbreed,Jan-99,BROWN,WHITE,TAN,Yes,No,Queens,11379
+Skippy,M,Dachshund Smooth Coat,May-02,BLACK,BROWN,n/a,Yes,No,Queens,11415
+Skippy,M,Dachshund Smooth Coat Miniature,Jun-10,BRINDLE,n/a,n/a,No,No,Manhattan,10282
+Skippy,F,German Shepherd Crossbreed,Jan-02,BROWN,BLACK,n/a,Yes,No,Brooklyn,11215
+Skippy,M,German Shepherd Crossbreed,Jan-04,BLACK,BROWN,WHITE,Yes,No,Staten Island,10306
+Skippy,M,Golden Retriever,Feb-09,GOLD,BLOND,n/a,Yes,No,Brooklyn,11234
+Skippy,M,Jack Russell Terrier,Jun-01,WHITE,BROWN,BLACK,Yes,No,Bronx,10464
+Skippy,M,Jack Russell Terrier,Jan-06,WHITE,BLACK,TAN,Yes,No,Staten Island,10306
+Skippy,M,Labrador Retriever,Jan-00,BLACK,n/a,n/a,Yes,No,Queens,11428
+Skippy,M,Labrador Retriever Crossbreed,Jan-97,RUST,BROWN,WHITE,Yes,No,Queens,11377
+Skippy,M,Labrador Retriever Crossbreed,Jan-02,BLACK,WHITE,n/a,No,No,Bronx,10462
+Skippy,M,Maltese,Jan-03,WHITE,BROWN,n/a,No,No,Queens,11369
+Skippy,M,Maltese,Jan-05,WHITE,n/a,n/a,Yes,No,Brooklyn,11204
+Skippy,M,Maltese,Dec-06,GRAY,n/a,n/a,Yes,No,Manhattan,10024
+Skippy,M,Maltese,Jul-10,WHITE,n/a,n/a,No,No,Bronx,10468
+Skippy,M,Maltese,Sep-11,WHITE,n/a,n/a,No,No,Brooklyn,11224
+Skippy,M,Miniature Pinscher,Dec-01,BLACK,RUST,n/a,Yes,No,Staten Island,10307
+Skippy,M,Mixed/Other,Jan-96,BROWN,BLACK,WHITE,Yes,No,Queens,11366
+Skippy,M,Mixed/Other,Nov-99,WHITE,BROWN,n/a,Yes,No,Staten Island,10307
+Skippy,M,Mixed/Other,Jan-00,BLACK,GRAY,WHITE,Yes,No,Brooklyn,11234
+Skippy,M,Mixed/Other,Jan-01,TAN,WHITE,n/a,Yes,No,Queens,11421
+Skippy,M,Mixed/Other,Jan-01,TAN,n/a,n/a,Yes,No,Staten Island,10305
+Skippy,M,Mixed/Other,Jan-03,BLACK,WHITE,n/a,Yes,No,Manhattan,10002
+Skippy,M,Mixed/Other,Jan-04,WHITE,BROWN,n/a,Yes,No,Brooklyn,11209
+Skippy,F,Mixed/Other,Jan-04,BLACK,n/a,n/a,Yes,No,Manhattan,10014
+Skippy,M,Mixed/Other,Apr-05,BLOND,WHITE,n/a,Yes,No,Bronx,10461
+Skippy,M,Mixed/Other,Jan-06,BLACK,BROWN,n/a,Yes,No,Queens,11420
+Skippy,M,Mixed/Other,Nov-07,BROWN,BLOND,n/a,Yes,No,Manhattan,10031
+Skippy,M,Mixed/Other,Feb-08,BLOND,n/a,n/a,Yes,No,Manhattan,10025
+Skippy,M,Mixed/Other,Mar-08,BLACK,BROWN,n/a,Yes,No,Queens,11378
+Skippy,M,Mixed/Other,Dec-08,TAN,WHITE,n/a,Yes,No,Queens,11105
+Skippy,M,Mixed/Other,Jul-10,BLACK,TAN,n/a,Yes,No,Brooklyn,11220
+Skippy,M,Pomeranian,Jan-97,RUST,TAN,BLOND,No,No,Brooklyn,11230
+Skippy,M,Pomeranian,Feb-09,BLOND,WHITE,n/a,Yes,No,Queens,11414
+Skippy,M,"Poodle, Standard",Jan-07,WHITE,n/a,n/a,Yes,No,Queens,11372
+Skippy,M,"Poodle, Standard",Jan-10,TAN,n/a,n/a,Yes,No,Brooklyn,11234
+Skippy,M,Schipperkee,Sep-06,BLACK,n/a,n/a,Yes,No,Staten Island,10309
+Skippy,M,Shiba Inu,Oct-06,RUST,BLOND,WHITE,Yes,No,Brooklyn,11228
+Skippy,M,Shih Tzu,Jan-98,WHITE,TAN,n/a,Yes,No,Staten Island,10312
+Skippy,M,Shih Tzu,Nov-10,WHITE,TAN,n/a,No,No,Bronx,10457
+Skippy,M,Silky Terrier,Jan-03,BLACK,TAN,n/a,Yes,No,Staten Island,10305
+Skippy,M,Wheaton Terrier,Mar-06,WHITE,GRAY,n/a,No,No,Queens,11364
+Skippy,M,Wire Fox Terrier,Jul-03,WHITE,GRAY,TAN,Yes,No,Manhattan,10024
+Skippy,M,Yorkshire Terrier,Jan-01,BRINDLE,BROWN,GRAY,Yes,No,Brooklyn,11222
+Skippy,M,Yorkshire Terrier,Jan-05,BLACK,BLOND,n/a,No,No,Manhattan,10017
+Skippy,M,Yorkshire Terrier,Jan-08,BLACK,TAN,n/a,Yes,No,Staten Island,10312
+Skippy,M,Yorkshire Terrier,Nov-10,BLUE,BLOND,n/a,No,No,Manhattan,10025

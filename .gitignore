@@ -1,0 +1,6 @@
+bin
+lib
+local
+share
+docker-compose.yml
+testrun.py
