@@ -1,9 +1,9 @@
 from csv import DictReader
 import pymongo
 
-connection = pymongo.MongoClient('ds153814.mlab.com', 53814);
-db = connection['djangotest']
-db.authenticate('kush', '!TeddyH.0')
+connection = pymongo.MongoClient('ds153814.mlab.com', 7122);
+db = connection['dbName']
+db.authenticate('*****', '****')
 
 collection = db['dogsDB']
 print(db.list_collection_names())
